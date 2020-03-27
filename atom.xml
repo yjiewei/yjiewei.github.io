@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yjiewei.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-27T15:45:45.116Z</updated>
+    <title>yjiewei</title>
+    <updated>2020-03-27T15:52:15.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yjiewei.github.io"/>
     <link rel="self" href="https://yjiewei.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>yjiewei.blog</subtitle>
     <logo>https://yjiewei.github.io/images/avatar.png</logo>
     <icon>https://yjiewei.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, yjiewei</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yjiewei.github.io/post/hello-gridea/</id>
