@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yjiewei.github.io</id>
     <title>yjiewei</title>
-    <updated>2020-03-28T06:22:17.629Z</updated>
+    <updated>2020-03-28T06:31:10.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yjiewei.github.io"/>
     <link rel="self" href="https://yjiewei.github.io/atom.xml"/>
-    <subtitle>坚持每天学习！</subtitle>
+    <subtitle>&lt;span&gt;Work hard!&lt;/span&gt;</subtitle>
     <logo>https://yjiewei.github.io/images/avatar.png</logo>
     <icon>https://yjiewei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yjiewei</rights>
