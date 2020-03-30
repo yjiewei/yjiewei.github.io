@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yjiewei.github.io</id>
     <title>yjiewei</title>
-    <updated>2020-03-30T13:40:02.061Z</updated>
+    <updated>2020-03-30T14:07:00.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yjiewei.github.io"/>
     <link rel="self" href="https://yjiewei.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://yjiewei.github.io/images/avatar.png</logo>
     <icon>https://yjiewei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yjiewei</rights>
+    <entry>
+        <title type="html"><![CDATA[做一个有准备的人~~]]></title>
+        <id>https://yjiewei.github.io/post/zuo-yi-ge-you-zhun-bei-de-ren-~~/</id>
+        <link href="https://yjiewei.github.io/post/zuo-yi-ge-you-zhun-bei-de-ren-~~/">
+        </link>
+        <updated>2020-03-30T13:43:35.000Z</updated>
+        <content type="html"><![CDATA[<p>受疫情影响....受个🐔的影响，我只是被囚禁在了家里，仅此而已。<br>
+我！<strong>yjiewei</strong>！就是懒...没什么好说的，懒+拖延症，整个像废物一样瘫在床上不知天日。</p>
+<ul>
+<li>我想做出改变</li>
+<li>眼光长远  目标要行动</li>
+<li>Java后端+进入大厂 虽然我知道这个很难实现 像我这么菜的人谁要呢</li>
+</ul>
+<p>回到我的标题，我想做一个有准备的人...<br>
+就像这次的疫情，给许多国家来了个下马威，目前美国已经14万人感染了...数字还在不断上升，这场噩梦不知道什么时候才会停止，很多人都在没有准备的情况下失业，破产...我想说的其实是~虽然我们很难改变整个国家或者整个世界的命运，但我们确确实实能够改变自己的命运，这就是我想说的准备。<br>
+准备多一分的技能，准备多一分的专业，准备多一分的信息...也许都能拯救个人甚至于家人的性命。<br>
+98年，已经22周岁了，但是我每天干的似乎还是我小学初中干的事情，没有自觉性，没有目标，甚至没有想过未来...这是我所不能接受的自己，这是我所讨厌的自己，所以我需要改变...<br>
+<strong>改变什么呢？其实也很简单...早睡早起！这是我的第一步。</strong></p>
+<p>如果我真的能做到，我会接着回来写这篇blog</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My flag...Rome was not built in a day！]]></title>
         <id>https://yjiewei.github.io/post/wo-de-blog/</id>
@@ -19,6 +40,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p>🌽每天都要学英语...背单词以及听英语听力比如TED<br>
 🍖每天至少刷一道LeetCode，做不做的出来都要多看题解，多理解，少懊恼<br>
+🥐每天准备一道面试题！！！并且做笔记记起来<br>
 🌮早起！！！早起！！！早起！！！<br>
 🌭早睡！！！早睡！！！早睡！！！<br>
 🍰还有...未完待续</p>
